@@ -1,0 +1,132 @@
+.body{
+}
+.head-btn{
+    top: 32px;
+    left: 1713px;
+    width: 137px;
+    height: 46px;
+    color: white;
+    background: #4468E2 0% 0% no-repeat padding-box;
+    border-radius: 23px;
+    border-color: white;
+    opacity: 1;
+}
+
+
+.head-btn2{
+    top: 32px;
+    left: 1713px;
+    width: 137px;
+    height: 46px;
+    color: white;
+    background: #4468E2 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    border-color: white;
+    opacity: 1;
+}
+
+.nav-mid{
+    top: 48px;
+  gap: 30px;
+    text-align: left;
+    font: normal normal normal 22px/30px Proxima Nova Alt;
+    letter-spacing: -0.84px;
+    color: black;
+    opacity: 0.75;
+}
+
+.container{
+    padding-top: 30px;
+    width: 1000%;
+    height: 1000%;
+    object-fit: fill;
+
+}
+
+.bg{
+    /* Layout Properties */
+top: 117px;
+left: 70px;
+width: 100%;
+height:100%;
+/* UI Properties */
+background: #00000047 0% 0% no-repeat padding-box;
+border-radius: 18px;
+opacity: 1;
+}
+
+
+
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+  
+  /* Top left text */
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  
+  /* Top right text */
+  .top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  
+  /* Bottom right text */
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+  }
+  
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* UI Properties */
+  
+  }
+
+  .centered2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* UI Properties */
+  
+  }
+
+
+  .banner-text{
+    text-align: left;
+    font: normal normal bold 50px/61px Montserrat;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+  }
+
+  .banner-para{
+    top: 323px;
+    left: 699px;
+    width: 522px;
+    height: 98px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal normal 22px/33px Proxima Nova Alt;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+  }
+
+  .banner-card{
+display: flex;
+  }
